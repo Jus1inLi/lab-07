@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Justin(zekuan) Li>`
-- **CCID:** `<zekuan>`
+- **Full Name:** `Justin(zekuan) Li`
+- **CCID:** `zekuan`
 
 ## References and Resources
 Claude for kotlin syntax, and debugging
